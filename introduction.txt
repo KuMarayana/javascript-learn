@@ -1,0 +1,36 @@
+WELCOME TO JAVASCRIPT
+
+
+JavaScript is one of the most popular programming languages. It’s used to make websites dynamic and interactive. You can also use JavaScript to create mobile apps, games, process data, and much more! In this course, you’ll learn to use JavaScript to make websites cool and interactive. 
+
+READY SET JAVASCRIPT
+
+you can use the tag script in your html markup example : <script></script>
+
+
+INTRODUCTION ABOUT HTML
+
+HTML code is used to structure the content of web pages and it’s based on tags. You may want to learn some HTML basics if you haven’t done so already before starting your JavaScript journey.
+Open the code below. You’ll fully understand this code by the end of this lesson. For now, press run to see what a web browser will display. 
+
+example code: 
+      <html>
+        <head>
+        <title>Example web</title>
+        </head>
+      <body>
+      <h2>web program</h2>
+      <button class="ClickMe()">Click Me</button>
+      
+      
+      <script>
+            function ClickMe() {
+                alert("Hello, World")
+            }
+      
+      </script>
+      </body>
+      </html>
+      
+      
+      //output is : Hello, World
