@@ -1,0 +1,22 @@
+VARIABLE IN JAVASCRIPT
+
+introduct about variable
+
+Variables are containers for storing data values. The value of a variable can change throughout the program.
+
+Declaring a variable is as simple as using the keyword var. Which would look like this:
+
+
+javascript variable is a component number in javascript
+
+example :
+
+var x = 10
+console.log(x)
+
+the output  : 10
+
+variable x is a variable component and 10 its number variable
+
+var number = 100;
+console.log(number)
