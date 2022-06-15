@@ -1,0 +1,49 @@
+DATA TYPES
+
+The term data type refers to the types of values a program can work with. The sky's the limit with JavaScript variables, which can hold a bunch of different data types–numbers, strings, arrays, you name it.
+
+
+example 
+
+     -- var num = 18;
+     
+     //this is data types
+     
+     2) STRINGS 
+        
+         In JavaScript we can use strings to store and manipulate text.
+         A string can be any text wrapped in quotes. Single or double quotes, it doesn’t matter, so long as you’re consistent with them. 
+         
+         
+            example :
+                    -- var name = "John Smith";
+                       console.log("my name is ", name);
+                       
+     3) STRING ESCAPE CHARACTHER
+        ---------------------------------------------------
+        |   CODE STRINGS         |         OUTPUT         |
+        |                        |                        |
+        |  \n                            new line
+        |  \"                            double quete
+        |  \f                            form feed
+        |  \'                            single quete
+        |
+        |
+        |
+        |
+        |
+        |
+        |
+        |
+        ---------------------------------------------------
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
